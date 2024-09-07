@@ -1,0 +1,8 @@
+npm create vite@4.1.0
+cd movie-app
+npm i
+code .
+npm i react-scripts
+npm i bootstrap@5.2.3
+//for running the app
+npm run dev
